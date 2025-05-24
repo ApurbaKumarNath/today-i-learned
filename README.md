@@ -17,6 +17,6 @@ These notes have all the fundamental concepts noted down in a beginner-friendly 
 
 
 ## For ease of use:
-- View my codes using online VS Code: [https://apurbakumarnath.github.io/python-oop/]
+- View my codes using online VS Code–style interface: [https://apurbakumarnath.github.io/python-oop/]
 
 - The link to this repository: [https://github.com/ApurbaKumarNath/python-oop]
